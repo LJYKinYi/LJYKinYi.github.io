@@ -1,5 +1,3 @@
-# Sample workflow for building and deploying a VitePress site to GitHub Pages
-#
 name: Release
 on:
   workflow_run:
